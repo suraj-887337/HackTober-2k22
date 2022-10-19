@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main() {
-int a = 12;
-   int b = 7;
+int a,b;
+   cin>>a>>b;
  
    int product = a * b;
  
