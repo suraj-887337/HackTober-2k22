@@ -6,8 +6,7 @@ int main() {
      
     cout << "Enter two integers\n";
     cin >> x >> y;
-     
-    // Multiplying x and y
+    
     product = x*y;
     cout << "Product = " << product;
      
